@@ -1,4 +1,4 @@
-# ✍️ Technical Writing Portfolio  
+## ✍️ Technical Writing Portfolio  
 _By Nadezhda Filina_
 
 Welcome! I’m a technical writer passionate about creating clear, user-centered documentation.  
