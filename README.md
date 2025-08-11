@@ -8,7 +8,7 @@ This portfolio includes selected samples of my work, presented using Markdown an
 
 ## 📘 User Manuals
 
-- **[DIZI-IZI User Guide (RU)](https://your-link.com/dizi-izi](https://filinanadezhda2502.atlassian.net/wiki/spaces/~7120201b648c5a5a2b431e9b8211a009c82183/pages/33176/-+DIZI+IZI.)**  
+- **[DIZI-IZI User Guide (RU)](https://filinanadezhda2502.atlassian.net/wiki/spaces/~7120201b648c5a5a2b431e9b8211a009c82183/pages/33176/-+DIZI+IZI.)**  
   _A detailed guide for an online apartment planning platform._
 
 - **[Training Room Guide (EN, extract)](https://filinanadezhda2502.atlassian.net/wiki/spaces/~7120201b648c5a5a2b431e9b8211a009c82183/pages/61669402/User+Guide+for+creating+a+Training+Room.)**  
