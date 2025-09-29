@@ -11,7 +11,7 @@ This portfolio includes selected samples of my work, presented using Markdown an
 - **[DIZI-IZI User Guide (RU)](https://filinanadezhda2502.atlassian.net/wiki/spaces/~7120201b648c5a5a2b431e9b8211a009c82183/pages/33176/-+DIZI+IZI.)**  
   _A detailed guide for an online apartment planning platform._
 
-- **[Training Room Guide (EN, extract)](https://filinanadezhda2502.atlassian.net/wiki/spaces/~7120201b648c5a5a2b431e9b8211a009c82183/pages/61669402/User+Guide+for+creating+a+Training+Room.)**  
+- **[Training Room Guide (EN, extract)](https://github.com/Nadya2502/technical-writing-portfolio/wiki/Create_room_instruction)**  
   _An extract from onboarding documentation for a corporate training platform._
 
 ---
