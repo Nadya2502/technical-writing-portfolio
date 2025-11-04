@@ -28,7 +28,7 @@ This portfolio includes selected samples of my work, presented using Markdown an
 
 ## 🔌 API Documentation
 
-- **[NSS-analytics API Description (extract) (EN)](https://filinanadezhda2502.atlassian.net/wiki/spaces/~7120201b648c5a5a2b431e9b8211a009c82183/pages/45056001/NSS-analytics+API+description)**  
+- **[NSS-analytics API Description (EN, extract)](https://filinanadezhda2502.atlassian.net/wiki/spaces/~7120201b648c5a5a2b431e9b8211a009c82183/pages/45056001/NSS-analytics+API+description)**  
   _Overview of endpoints and usage examples._
 
 ---
