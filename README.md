@@ -1,7 +1,7 @@
 ## ✍️ Technical Writing Portfolio  
 _By Nadezhda Filina_
 
-Welcome! I’m a technical writer passionate about creating clear, user-centered documentation.  
+Welcome! I’m a technical writer focused on creating clear, user-centered documentation.  
 This portfolio includes selected samples of my work, presented using Markdown and GitHub Pages.
 
 ---
