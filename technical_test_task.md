@@ -22,10 +22,10 @@ sh install
 
 3.3 Install the required package and version using your package manager.
 ```bash
- sudo rpm -i package.rpm
+ rpm -i package.rpm
 ```
 
-\* - While writing this instruction, I assumed that it is intended not only for professional developers but for a wide audience, so I included some definitions in it.
+\* - While writing this instruction, I assumed that it is intended not only for professional developers but for a wide audience, so I included some definitions in it. 
 ## Clarifying Questions:
 
 - What is the target audience of this instruction?
