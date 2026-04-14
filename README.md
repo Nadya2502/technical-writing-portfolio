@@ -21,17 +21,11 @@ This portfolio includes selected samples of my work, presented using Markdown an
 
 ## ⚙️ Process Documentation
 
-- **[Scrum Guide for NexFlowWave (RU)](https://filinanadezhda2502.atlassian.net/wiki/spaces/~7120201b648c5a5a2b431e9b8211a009c82183/pages/74121218/scrum+NexFlowWave)**  
-  _Methodology guide for task management using Scrum._
+- **[Backend Development Guidelines (SOUL Project) (RU)](https://github.com/Nadya2502/technical-writing-portfolio/wiki/%D0%A0%D0%B5%D0%B3%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8-backend-(%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-SOUL))**  
+  _Backend Development Guidelines._
 
 ---
 
-## 🔌 API Documentation
-
-- **[NSS-analytics API Description (EN, extract)](https://filinanadezhda2502.atlassian.net/wiki/spaces/~7120201b648c5a5a2b431e9b8211a009c82183/pages/45056001/NSS-analytics+API+description)**  
-  _Overview of endpoints and usage examples._
-
----
 
 ## 📫 Contact
 
