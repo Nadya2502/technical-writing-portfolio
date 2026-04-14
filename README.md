@@ -5,6 +5,8 @@ Welcome! I’m a technical writer focused on creating clear, user-centered docum
 This portfolio includes selected samples of my work, presented using Markdown and GitHub Pages.
 
 ---
+- **User Guide (ELS for OS)**  
+  https://docs.tuxcare.com/els-for-os/
 
 ## 📘 User Manuals
 
